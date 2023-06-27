@@ -5,7 +5,7 @@
 </div>  
   
 
-- **🌱 I’m currently learning JavaScript**  
+- **🌱 I’m currently learning React**  
   
 
 - **⚡ Fun fact: I use tabs over spaces**  
