@@ -1,80 +1,21 @@
+# 💫 About Me:
+🔭 I’m currently working on<br>🌱 I’m currently learning React.js<br>⚡ Fun fact:  I use tabs over spaces (Prettier nowadays)<br>
 
 
-### Hi I am Jaya Sai Vinay  
-<div align="center">
-</div>  
-  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayasaivinay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-sai-vinay-ankam-275827184) 
 
-- **🌱 I’m currently learning React**  
-  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayaSaiVinay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JayaSaiVinay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSaiVinay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **⚡ Fun fact: I use tabs over spaces**  
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JayaSaiVinay&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-<br/>  
+---
+[![](https://visitcount.itsvg.in/api?id=JayaSaiVinay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-<div>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" width="auto" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" alt="React.JS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/jaya-sai-vinay-ankam-275827184/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/jayasaivinay" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/JayaSaiVinay" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JayaSaiVinay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=JayaSaiVinay&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
