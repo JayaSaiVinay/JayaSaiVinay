@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning React.js<br>⚡ Fun fact:  I use tabs over spaces (Prettier nowadays)<br>
+I’m Jaya Sai Vinay<br>🌱 I’m currently learning React.js<br>⚡ Fun fact:  I use tabs over spaces (Prettier nowadays)<br>
 
 
 ## 🌐 Socials:
